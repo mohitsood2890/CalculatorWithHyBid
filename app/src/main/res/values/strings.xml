@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CalculatorWithHyBid</string>
+    <!-- Provided app token and zone id (from your question) -->
+    <string name="hybid_app_token">dde3c298b47648459f8ada4a982fa92d</string>
+    <string name="hybid_zone_id">1</string>
+</resources>
